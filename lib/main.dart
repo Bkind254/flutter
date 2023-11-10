@@ -21,7 +21,7 @@ class MyApp extends StatelessWidget {
         home: Scaffold(
           appBar: AppBar(
             title: Text("My App Bar"),
-            backgroundColor: Colors.deepPurple,
+            backgroundColor: Colors.red,
             elevation: 0,
             leading: Icon(Icons.menu),
             actions: [IconButton(onPressed: () {}, icon: Icon(Icons.logout))],
