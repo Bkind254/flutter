@@ -35,7 +35,7 @@ class MyApp extends StatelessWidget {
               Container(
                 height: 300,
                 width: 300,
-                color: Colors.deepPurple,
+                color: Colors.orange,
               ),
 
               //2nd box
