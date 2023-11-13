@@ -21,7 +21,7 @@ class MyApp extends StatelessWidget {
         home: Scaffold(
           appBar: AppBar(
             title: Text("My App Bar"),
-            backgroundColor: Colors.red,
+            backgroundColor: Colors.deepPurple,
             elevation: 0,
             leading: Icon(Icons.menu),
             actions: [IconButton(onPressed: () {}, icon: Icon(Icons.logout))],
@@ -35,7 +35,7 @@ class MyApp extends StatelessWidget {
               Container(
                 height: 300,
                 width: 300,
-                color: Colors.orange,
+                color: Colors.blueGrey,
               ),
 
               //2nd box
